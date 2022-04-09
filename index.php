@@ -28,16 +28,16 @@
       <i style="font-size:180px;" class="fa fa-envelope" aria-hidden="true"></i><br>
       <span style="font: 50px BebasNeue, serif;">E-mail Marketing</span>
       <div class="form-inline">
-         <textarea name="ccs" id="ccs" placeholder="Lista de e-mails" class="form-control" style="max-width: 800px; min-width: 400px; min-height: 200px; max-height: 200px; text-align: center;" placeholder=""></textarea>
-         <textarea name="conteudo" id="conteudo" placeholder="Conteúdo" class="form-control" style="max-width: 800px; min-width: 400px; min-height: 200px; max-height: 200px; text-align: center;" placeholder=""></textarea>
+         <textarea name="ccs" id="ccs" placeholder="List of e-mails" class="form-control" style="max-width: 800px; min-width: 400px; min-height: 200px; max-height: 200px; text-align: center;" placeholder=""></textarea>
+         <textarea name="conteudo" id="conteudo" placeholder="Email Content (html form)" class="form-control" style="max-width: 800px; min-width: 400px; min-height: 200px; max-height: 200px; text-align: center;" placeholder=""></textarea>
       </div>
       <br>
       <center>
          <div class="form-inline">
-            <input value="" type="text" maxlength="30" style="height: 35px; width: 200px; text-align: center;" class="form-control" name="email" id="email" placeholder="E-mail">
-            <input value="" type="password" maxlength="30" style="height: 35px; width: 150px; text-align: center;" class="form-control" name="senha" id="senha" placeholder="Senha">
-            <input value="" type="text" maxlength="30" style="height: 35px; width: 200px; text-align: center;" class="form-control" name="nome" id="nome" placeholder="Nome">
-            <input value="" type="text" maxlength="30" style="height: 35px; width: 150px; text-align: center;" class="form-control" name="assunto" id="assunto" placeholder="Assunto">
+            <input value="" type="text" maxlength="30" style="height: 35px; width: 200px; text-align: center;" class="form-control" name="email" id="email" placeholder="Your E-mail">
+            <input value="" type="password" maxlength="30" style="height: 35px; width: 150px; text-align: center;" class="form-control" name="senha" id="senha" placeholder="Your Password">
+            <input value="" type="text" maxlength="30" style="height: 35px; width: 200px; text-align: center;" class="form-control" name="nome" id="nome" placeholder="Display Name">
+            <input value="" type="text" maxlength="30" style="height: 35px; width: 150px; text-align: center;" class="form-control" name="assunto" id="assunto" placeholder="Subject">
          </div>
          <br>
          <span>
