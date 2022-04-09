@@ -41,7 +41,7 @@
          </div>
          <br>
          <span>
-            Informações:
+            Informations:
             <i id="demo">
                <div class="label label-warning label-dismissible">Not Started.</div>
             </i>
