@@ -45,9 +45,9 @@
             <i id="demo">
                <div class="label label-warning label-dismissible">Not Started.</div>
             </i>
-            | Carregados:
+            | Loaded:
             <div id="carregada" class="label label-warning label-dismissible">0</div>
-            </i> | Enviados:
+            </i> | Sent:
             <div id="testado" class="label label-warning label-dismissible">0</div>
          </span>
       </center>
