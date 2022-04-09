@@ -43,7 +43,7 @@
          <span>
             Informações:
             <i id="demo">
-               <div class="label label-warning label-dismissible">Não iniciado.</div>
+               <div class="label label-warning label-dismissible">Not Started.</div>
             </i>
             | Carregados:
             <div id="carregada" class="label label-warning label-dismissible">0</div>
@@ -54,8 +54,8 @@
 </div>
 <br>
 <div class="form-inline">
-<button type="submit" name="send" value="Iniciar " onclick="start()" class="fcbtn btn btn-warning btn-outline btn-1e btn-squared">Iniciar</button>
-<button type="submit" name="limpar" value="Limpar" onclick="limpar()" class="fcbtn btn btn-info btn-warning btn-1e btn-squared animated ">Limpar</button>
+<button type="submit" name="send" value="Iniciar " onclick="start()" class="fcbtn btn btn-warning btn-outline btn-1e btn-squared">Send</button>
+<button type="submit" name="limpar" value="Limpar" onclick="limpar()" class="fcbtn btn btn-info btn-warning btn-1e btn-squared animated ">Clear</button>
 </table>
 </div>
 </div>
