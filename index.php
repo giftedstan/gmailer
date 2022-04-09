@@ -2,8 +2,9 @@
 ?>
 <head>
    <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1">
    <title>E-mail Marketing</title>
-   <meta name="author" content="Erlan Lucio">
+   <meta name="author" content="giftedstan">
    <link rel="icon" href="images/fav.ico" type="image/x-icon" />
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
    <script src="js/custom.js"></script>
