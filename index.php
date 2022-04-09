@@ -60,8 +60,8 @@
 </div>
 </div>
 <!-- Copyright -->
-<div id="down" class="footer-copyright text-center py-3">© 2019 Copyright:
-   <a href="https://www.linkedin.com/in/erlan-lucio-760745183/"> Erlan Lucio</a>
+<div id="down" class="footer-copyright text-center py-3">© 2022 Copyright:
+   <a href="https://dev.to/giftedstan">Simon Stanley</a>
 </div>
 </div>
 <!-- Copyright -->
